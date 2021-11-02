@@ -1,0 +1,19 @@
+{
+  "name": "modulo-qr",
+  "version": "1.0.0",
+  "description": "Modulo para generar codigos QR",
+  "module": "index.js",
+  "repository": "https://github.com/iakanoe/modulo-qr",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": {
+    "name": "Ianick Noejovich",
+    "url": "https://github.com/iakanoe"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
